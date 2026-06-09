@@ -1,4 +1,4 @@
-# 🚦 Traffic Light Controller Using FSM
+# 🚦 Traffic Ligh Controller Using FSM
 
 A Verilog-based Traffic Light Controller designed using a Moore Finite State Machine for a 4-way intersection.
 
